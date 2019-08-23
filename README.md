@@ -1,7 +1,7 @@
 # Agenda Eletrônica
 
-<h1>Diagrama de Sequência</h1>
+<h2>Diagrama de Sequência</h2>
 
-<h1>Diagrama de Caso de Uso</h1>
+<h2>Diagrama de Caso de Uso</h2>
 
-<h1>Diagrama de Classe</h1>
+<h2>Diagrama de Classe</h2>
